@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12121" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="AnimationCollectionViewCell" id="gTV-IL-0wX" customClass="AnimationCollectionViewCell" customModule="CollectionViewAnimation" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="340" height="207"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="340" height="207"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="bhn-cO-d26">
+                        <rect key="frame" x="0.0" y="0.0" width="340" height="140"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="340" id="J3H-e7-NJZ"/>
+                            <constraint firstAttribute="height" constant="140" id="UJa-Au-cyj"/>
+                            <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="140" id="fYt-Pi-oBY"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="J3H-e7-NJZ"/>
+                            </mask>
+                        </variation>
+                    </imageView>
+                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" editable="NO" textAlignment="justified" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="K5Q-hy-mjD">
+                        <rect key="frame" x="0.0" y="140" width="340" height="67"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="100" id="5xc-5Y-blV"/>
+                            <constraint firstAttribute="width" constant="340" id="EqS-E0-u4q"/>
+                        </constraints>
+                        <inset key="scrollIndicatorInsets" minX="30" minY="10" maxX="30" maxY="10"/>
+                        <mutableString key="text">Chung kết 3 của loạt trận chung kết VBA 2017 by Jetstar được trông đợi đặc biệt vì nếu như Cantho Catfish hoặc Thang Long Warriors có được chiến thắng ở trận đấu bản lề này, khả năng để đội bóng đó bước lên ngôi vô địch là rất cao. Kết quả chung cuộc chỉ được quyết định trong 5 giây cuối cùng của trận đấu, điểm nhấn là pha để mất bóng đáng tiếc của Thang Long Warriors và tình huống ném phạt thành công sau đó từ Cantho Catfish. Tỷ số cuối cùng là 77-74 nghiêng về phía đội bóng Basa và với ưu thế này, họ đang đứng trước cơ hội rất lớn để chạm đến đỉnh vinh quang của mùa giải năm nay.
+
+Rượt đuổi gay cấn ngay từ những phút đầu tiên
+
+Sau hai trận chung kết căng thẳng trước đó, cả Cantho Catfish lẫn Thang Long Warriors đều không còn xa lạ gì nhau và dường như họ đã quá hiểu những bài bản chiến thuật của đối thủ. Do đó, cả hai bên liên tục bắt bài các pha tấn công của nhau và so kè quyết liệt từng điểm mộ ngay từ đầu trận. Tuy nhiên, Thang Long Warriors là đội tạm chiếm được ưu thế trong hiệp 1 nhờ vào sự hiệu quả của trung phong Nguyễn Văn Hùng (6 điểm, 2 rebound). Tiếp nối phong độ tốt từ game trước, “độc cô cầu bại” liên tiếp có những tình huống theo kèm hiệu quả với De Angelo Hamilton và không ngừng “khuynh đảo” bảng rổ của Cantho Catfish bằng các pha phối hợp hiệu quả với Jaywuan Hill. Hiệp 1 trận đấu kết thúc với tỷ số 16-15 nghiêng về phía Thang Long Warriors. Hiệp 2, với sự cổ vũ cuồng nhiệt đến từ các khán đài của nhà thi đấu đa năng Cần Thơ, Cantho Catfish thi đấu khởi sắc hẳn lên và khiến lợi thế dẫn điểm của Thang Long Warriors bị lung lay nghiêm trọng. 4 tình huống ném 3 điểm thành công trong hiệp đấu này của đội bóng Basa đã khiến thế trận trên sân đảo chiều trong nháy mắt. Từ chỗ để các chiến binh Thăng Long dẫn trước 8 điểm ở đầu hiệp, Cantho Catfish đã có màn tái xuất hoàn hảo và dẫn ngược lại đối thủ bằng tỷ số 34-29.
+
+Chiến binh trở lại, trận đấu căng thẳng từng giây
+
+Hưng phấn sau màn lội ngược dòng cuối hiệp 2, Cantho Catfish tiếp tục duy trì phong độ tốt ở hiệp thi đấu tiếp theo. Một loạt các tình huống dứt điểm chính xác sau đó đã giúp đoàn quân của huấn luyện viên Kevin Yurkus nới rộng cách biệt lên thành 17 điểm (62-45) khi hiệp 3 chỉ còn 2 phút. Tuy nhiên, đúng vào lúc này, những điều chỉnh chiến thuật hợp lý của huấn luyện viên Lee Tao Dana đã giúp “các chiến binh khủng long” trở lại mạnh mẽ. 11 điểm ghi được liên tiếp sau đó, trong đó có đến 8 điểm đến từ các pha ném trung bình và lên rổ chính xác của Justin Young đã giúp đội bóng Thủ đô rút ngắn tỷ số xuống chỉ còn 62-56 khi hiệp 3 kết thúc. Hiệp đấu cuối, với quyết tâm không để thua ở game đấu bản lề này, cả hai đội liên tiếp mang đến những pha bóng “ăn miếng trả miếng” đẹp mắt. Các tình huống va chạm cũng diễn ra, nổi bật là màn “trash talk” căng thẳng giữa Trương Hoàng Trung và Sang Đinh. Trở lại với diễn biến trận đấu, bằng những nỗ lực tuyệt vời, Thang Long Warriors đã cân bằng tỷ số trận đấu thành 70-70 khi hiệp 4 còn hơn 1 phút. Tuy nhiên, với sự cổ vũ của các khán giả nhà, Cantho Catfish nhanh chóng tái lập lại ưu thế dẫn điểm với pha ném 3 lạnh lùng của Lê Hiếu Thành cùng tình huống “fade-away” đẹp mắt của De Angelo Hamilton. Dù vậy, khi trận đấu còn 5 giây, cách biệt giữa 2 đội cũng chỉ là 2 điểm. Lúc này, Thang Long Warriors có lợi thế cầm bóng, tuy nhiên tình huống chuyền bóng quá mạnh sau đó của Justin Young dành cho Jaywuan Hill đã khiến hy vọng san hoà của đội bóng Thủ đô bay vụt mất. Chung cuộc, Cantho Catfish giành chiến thắng với tỷ số 77-74 và nắm giữ lợi thế không nhỏ để chạm tay vào vinh quang cuối cùng của giải đấu. Trong một ngày mà De Angelo Hamilton thi đấu đúng phong độ, Cantho Catfish lại tiếp tục giành được chiến thắng và khiến cánh cửa vô địch rộng mở hơn. Với 26 điểm, 20 rebound và 6 kiến tạo có được, De Angelo Hamilton cũng đã chinh phục thành công danh hiệu MVP của trận đấu hôm nay.</mutableString>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="5xc-5Y-blV"/>
+                                <exclude reference="EqS-E0-u4q"/>
+                            </mask>
+                        </variation>
+                    </textView>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fMS-3u-ZBH">
+                        <rect key="frame" x="10" y="12" width="20" height="24"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="20" id="Pnz-8i-WXh"/>
+                            <constraint firstAttribute="height" constant="24" id="aUu-TE-S9u"/>
+                            <constraint firstAttribute="width" constant="46" id="ohd-Gw-Gu3"/>
+                        </constraints>
+                        <state key="normal" image="Back-icon"/>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="ohd-Gw-Gu3"/>
+                            </mask>
+                        </variation>
+                    </button>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="fMS-3u-ZBH" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="12" id="GKz-vm-low"/>
+                <constraint firstItem="fMS-3u-ZBH" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="10" id="IU4-fN-YlT"/>
+                <constraint firstAttribute="trailing" secondItem="K5Q-hy-mjD" secondAttribute="trailing" id="L4i-qO-CIt"/>
+                <constraint firstAttribute="trailing" secondItem="bhn-cO-d26" secondAttribute="trailing" id="bkN-4f-qqU"/>
+                <constraint firstItem="K5Q-hy-mjD" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="ciG-FN-6gl"/>
+                <constraint firstAttribute="bottom" relation="lessThanOrEqual" secondItem="K5Q-hy-mjD" secondAttribute="bottom" id="fOe-MU-vtv"/>
+                <constraint firstAttribute="bottom" secondItem="K5Q-hy-mjD" secondAttribute="bottom" id="m5C-46-LLq"/>
+                <constraint firstItem="bhn-cO-d26" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="ogm-0f-rVG"/>
+                <constraint firstItem="bhn-cO-d26" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="phh-kQ-OA5"/>
+                <constraint firstItem="K5Q-hy-mjD" firstAttribute="top" secondItem="bhn-cO-d26" secondAttribute="bottom" id="upa-aF-BJK"/>
+            </constraints>
+            <size key="customSize" width="309" height="190"/>
+            <connections>
+                <outlet property="animaionTextView" destination="K5Q-hy-mjD" id="gAS-5q-syX"/>
+                <outlet property="animationImageView" destination="bhn-cO-d26" id="LRi-PR-gjU"/>
+                <outlet property="backButton" destination="fMS-3u-ZBH" id="6H9-Fh-fix"/>
+            </connections>
+            <point key="canvasLocation" x="163" y="123.5"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="Back-icon" width="14" height="24"/>
+    </resources>
+</document>
